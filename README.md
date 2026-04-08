@@ -1,4 +1,4 @@
-# AI-supply-chain \
+# AI-supply-chain 
 AI x Supply Chain analysis \
 purpose: practice EDA + business analysis \ 
 
